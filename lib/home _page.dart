@@ -39,7 +39,7 @@ class _m_pageState extends State<m_page> {
           BottomNavigationBarItem(
             label: 'Discover',
             icon: Icon(
-              Icons.home,
+              Icons.home_filled,
             ),
           ),
           BottomNavigationBarItem(
